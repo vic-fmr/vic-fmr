@@ -1,7 +1,7 @@
 ### Opa! Tudo bom? Me chamo Victor.
 
 [![Blog](https://img.shields.io/website?label=vic.dev&style=for-the-badge&url=https://vic-fmr.github.io/portfolio/)](https://vic-fmr.github.io/portfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://vic-fmr.github.io/portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://vic-fmr.github.io/portfolio/](https://www.instagram.com/vfmarques12/))
 
 ![vic.dev GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-fmr&show_icons=true&theme=dark)
 
