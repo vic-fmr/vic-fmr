@@ -1,5 +1,7 @@
 ### Opa! Tudo bom? Me chamo Victor.
 
+<p>"Ctrl + clique" para abrir em outra aba: </p>
+                                              
 [![Blog](https://img.shields.io/website?label=vic.dev&style=for-the-badge&url=https://vic-fmr.github.io/portfolio/)](https://vic-fmr.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://vic-fmr.github.io/portfolio/](https://www.instagram.com/vfmarques12/))
 
