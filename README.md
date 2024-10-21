@@ -4,8 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://vic-fmr.github.io/portfolio/](https://www.instagram.com/vfmarques12/))
 
 <div>
-  <img height="170em "alt="status" src="https://github-readme-stats.vercel.app/api?username=vic-fmr&show_icons=true&theme=dark">
-  <img height="170em" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark">
+  <img height="170em" alt="status" src="https://github-readme-stats.vercel.app/api?username=vic-fmr&show_icons=true&theme=dark">
+  <img height="170em" alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vic-fmr&layout=compact&theme=dark">
 </div>
 
 ## Tecnologias as quais utilizo:
