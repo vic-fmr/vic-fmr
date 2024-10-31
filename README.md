@@ -1,4 +1,10 @@
-### Opa! Tudo bom? Me chamo Victor.
+## <div align = "center"> Opa! Tudo bom? Me chamo Victor. :blush: </div>
+
+<div align = "center">
+  <b> Getting Started </b> :wrench: <br>
+  Entusiasta do Desenvolvimento FullStack <br>
+  Google Apps Script Explorer
+</div>
 
 <p>Fale comigo!!</p>
 
@@ -20,3 +26,10 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+## Quero aprender:
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
