@@ -2,7 +2,7 @@
 
 <div align = "center">
   <b> Getting Started </b> :wrench: <br>
-  Entusiasta do <strong>deesenvolvimento full-stack</strong> e automações com <strong>Google Apps Script</strong><br><br>
+  Entusiasta do <strong>desenvolvimento full-stack</strong> e automações com <strong>Google Apps Script</strong><br><br>
 </div>
 
 <div align = "center">
